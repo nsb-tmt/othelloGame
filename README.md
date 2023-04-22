@@ -1,0 +1,2 @@
+# othelloGame
+AndroidStudioで作成したオセロゲームのJavaのソース部分です。
